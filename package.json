@@ -11,6 +11,7 @@
     "dark"
   ],
   "readmeFilename": "README.md",
+  "homepage": "https://jibsen.github.io/solarized-minimal/",
   "repository": "https://github.com/jibsen/atom-solarized-minimal-dark",
   "license": "MIT",
   "engines": {
